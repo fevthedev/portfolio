@@ -25,7 +25,7 @@ ThryvFit is a mobile fitness app designed for athletes and fitness enthusiasts l
     <img src="https://i.imgur.com/rQXuq2f.png" alt="App Screenshot" width="200"/>
     <img src="https://i.imgur.com/ThHViwS.png" alt="App Screenshot" width="200"/>
     <img src="https://i.imgur.com/KY72lze.png" alt="App Screenshot" width="200"/>
-    <img src="https://i.imgur.com/Gzq7W74.mp4" alt="App Screenshot" width="200"/>
+    <img src="https://i.imgur.com/Se0lqFe.jpeg" alt="App Screenshot" width="200"/>
 </div>
 
 ## 📲 Download & Links
