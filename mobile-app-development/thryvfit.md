@@ -20,11 +20,16 @@ ThryvFit is a mobile fitness app designed for athletes and fitness enthusiasts l
 - **Cloud Services:** Google Cloud Vision API (for content moderation)  
 
 ## 📸 Screenshots & Demo
-![App Screenshot](https://i.imgur.com/JddYq03.png)
+<img src="https://i.imgur.com/JddYq03.png" alt="App Screenshot" width="200"/>
+<img src="https://i.imgur.com/rQXuq2f.png" alt="App Screenshot" width="200"/>
+<img src="https://i.imgur.com/ThHViwS.png" alt="App Screenshot" width="200"/>
+<img src="https://i.imgur.com/KY72lze.png" alt="App Screenshot" width="200"/>
+<img src="https://i.imgur.com/Gzq7W74.mp4" alt="App Screenshot" width="200"/>
+<!-- ![App Screenshot](https://i.imgur.com/JddYq03.png)
 ![App Screenshot](https://i.imgur.com/rQXuq2f.png)
 ![App Screenshot](https://i.imgur.com/ThHViwS.png)
 ![App Screenshot](https://i.imgur.com/KY72lze.png)
-![App Screenshot](https://i.imgur.com/Gzq7W74.mp4)
+![App Screenshot](https://i.imgur.com/Gzq7W74.mp4) -->
 
 ## 📲 Download & Links
 - 📱 **Live App:** [[Google Play](https://play.google.com/store/apps/details?id=com.thryvfit.app&pli=1)]
