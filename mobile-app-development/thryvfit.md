@@ -4,6 +4,8 @@
 
 ThryvFit is a mobile fitness app designed for athletes and fitness enthusiasts looking to track workouts, engage with a community, and receive AI-powered workout recommendations. Built with **Flutter**, **Firebase**, and **Flask**, ThryvFit offers a seamless fitness tracking experience with deep AI integration.
 
+[**Checkout the official website**](https://thryvfit.com)
+
 ## 🚀 Features
 ✅ **AI-Generated Workouts** – Personalized fitness plans based on user goals and progress.  
 ✅ **Workout Logging** – Log exercises, track progress, and visualize improvements.  
