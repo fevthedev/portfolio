@@ -1,6 +1,6 @@
 # ThryvFit - The AI-Powered Fitness Companion
 
-![ThryvFit App Icon](https://www.dropbox.com/scl/fi/twv5ggpmx5ydmqrf5duas/play-store-icon.png?rlkey=v36xagy38pzgwslvw3mnev98s&st=aaljgf2h&dl=0)
+<img src="https://i.imgur.com/l8K5V1s.png" alt="App icon" width="75"/>
 
 ThryvFit is a mobile fitness app designed for athletes and fitness enthusiasts looking to track workouts, engage with a community, and receive AI-powered workout recommendations. Built with **Flutter**, **Firebase**, and **Flask**, ThryvFit offers a seamless fitness tracking experience with deep AI integration.
 
@@ -20,16 +20,13 @@ ThryvFit is a mobile fitness app designed for athletes and fitness enthusiasts l
 - **Cloud Services:** Google Cloud Vision API (for content moderation)  
 
 ## 📸 Screenshots & Demo
-<img src="https://i.imgur.com/JddYq03.png" alt="App Screenshot" width="200"/>
-<img src="https://i.imgur.com/rQXuq2f.png" alt="App Screenshot" width="200"/>
-<img src="https://i.imgur.com/ThHViwS.png" alt="App Screenshot" width="200"/>
-<img src="https://i.imgur.com/KY72lze.png" alt="App Screenshot" width="200"/>
-<img src="https://i.imgur.com/Gzq7W74.mp4" alt="App Screenshot" width="200"/>
-<!-- ![App Screenshot](https://i.imgur.com/JddYq03.png)
-![App Screenshot](https://i.imgur.com/rQXuq2f.png)
-![App Screenshot](https://i.imgur.com/ThHViwS.png)
-![App Screenshot](https://i.imgur.com/KY72lze.png)
-![App Screenshot](https://i.imgur.com/Gzq7W74.mp4) -->
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://i.imgur.com/JddYq03.png" alt="App Screenshot" width="200"/>
+    <img src="https://i.imgur.com/rQXuq2f.png" alt="App Screenshot" width="200"/>
+    <img src="https://i.imgur.com/ThHViwS.png" alt="App Screenshot" width="200"/>
+    <img src="https://i.imgur.com/KY72lze.png" alt="App Screenshot" width="200"/>
+    <img src="https://i.imgur.com/Gzq7W74.mp4" alt="App Screenshot" width="200"/>
+</div>
 
 ## 📲 Download & Links
 - 📱 **Live App:** [[Google Play](https://play.google.com/store/apps/details?id=com.thryvfit.app&pli=1)]
