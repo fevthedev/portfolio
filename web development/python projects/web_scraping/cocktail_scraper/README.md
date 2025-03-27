@@ -1,7 +1,9 @@
 # Cocktail Web Scraper
-As a part time bartender during my early career, I always envisioned creating an app that a bartender could easily and quiclly reference
-should they forget a certain cocktail recipe while on shift. So here's step one - getting the recipes. 
-Next step will include feeding these recipes into a lightweight mobile app. Maybe someone else will find use with this also - go for it. 
+As a part time bartender during my early career, I always envisioned creating an app that a bartender could easily and quickly reference should they need a specific drink recipe on the fly. So here's step one - getting the recipes. I decided to just make it fun and set up a web scraper.
+Next steps include:
+- Adding scraped data from about two or three more websites to make the recipe list as complete as can be
+- Using ChatGPT to polish things a bit more - not all sites are made equal
+- feeding these recipes into a lightweight mobile app. Maybe someone else will find use with this also - go for it.
 
 ## Setup Instructions
 1. Install dependencies
