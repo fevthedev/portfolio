@@ -1,0 +1,39 @@
+[
+	{
+		"title": "Classic Martini",
+		"image": "",
+		"ingredients": [
+			"2 oz. gin (or vodka)",
+			"1/2 oz. dry vermouth",
+			"Green olives (for garnish)"
+		],
+		"base": ["vodka", "gin"],
+		"garnishes": ["Green olives"],
+		"glassware": ["martini glass"],
+		"instructions": [
+			"Fill a cocktail shaker with ice",
+			"Combine gin/vodka and vermouth",
+			"Shake well, about 20 seconds, then strain into a martini glass",
+			"Garnish with olives and serve"
+		]
+	},
+	{
+		"title": "Piña Colada",
+		"image": "",
+		"ingredients": [
+			"1 oz. white rum",
+			"1 oz. coconut milk",
+			"2 oz. pineapple juice",
+			"Pineapple slice (for garnish)"
+		],
+		"base": ["rum", "white rum"],
+		"garnishes": ["Pineapple slice"],
+		"glassware": ["hurricane glass"],
+		"instructions": [
+			"Add rum, coconut milk and pineapple juice into a cocktail shaker",
+			"Fill with ice",
+			"Shake and strain into a hurricane glass filled with fresh ice",
+			"Garnish with pineapple slice and serve"
+		]
+	}
+]
