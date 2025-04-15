@@ -1,7 +1,3 @@
-# TODO ATTN: allowing .env inside repo for lack of secrets in this project
-
-
-.DS_Store
 */venv/
 package-lock.json
 __pychache__/
@@ -42,3 +38,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# allowing .env inside repo for lack of secrets in this project
